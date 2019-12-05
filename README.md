@@ -4,11 +4,15 @@ The project undertaken this semester is a mini pocket music visualization progra
 
 Repository contents
 
-/src - Here's where the software for your device goes (.ino）
-/build - Files that are compiled and ready to run.
-/examples - Example files that can be run
-/img - This is where the image files for this readme are!
-/README.md - The file you're reading now!
+ /src - Here's where the software for your device goes (.ino）
+
+ /build - Files that are compiled and ready to run.
+
+ /examples - Example files that can be run
+
+ /img - This is where the image files for this readme are!
+
+ /README.md - The file you're reading now!
 
 Requirements and Materials
 
