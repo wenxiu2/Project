@@ -18,7 +18,8 @@ Bill of Materials:
 5. Speaker
 
 Build Instructions
-![p1](https://github.com/wenxiu2/Project/Image/p1)
+
+![p1](https://github.com/wenxiu2/Project/blob/master/Image/p1.PNG)
 
 Usage
 Upload the code to the thing.
